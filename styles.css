@@ -7,8 +7,10 @@ body {
     margin: 40px auto;
     /*display: inline-block;*/
     width: auto;
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(218, 218, 218);
     padding: 10px;
+    border: 1px solid #333;
+    border-radius: 20px;
 }
 
 .table {
@@ -16,10 +18,10 @@ body {
 }
 
 .table td {
-    min-width: 20px;
-    height: 28px;
+    min-width: 40px;
+    height: 48px;
     padding: 20px;
-    font-size: 24px;
+    font-size: 40px;
     font-family: "Consolas", monospace;
     text-align: center;
     border: 1px solid #333;
